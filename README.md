@@ -6,7 +6,7 @@
 
   現在Pythonを勉強しています！  \
   趣味はゲームです！ \
-  気になることやわからないことがあったら気軽にご連絡ください！  \
+  気になることやわからないことがあったら気軽にご連絡ください！  
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)]([https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v?si=c497e71a389f40a4](https://open.spotify.com/playlist/539G3nwzhp8YfHaUqwSfTB?si=bad4301f6581416c&pt=4d1c17708c2e9c649bd68d38aed76a59))
 
