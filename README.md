@@ -37,9 +37,6 @@
   <!-- profile views badge -->
   <a href="https://github.com/FiroRooMx">
     <img src="https://komarev.com/ghpvc/?username=FiroRooM">
-</a>
-  <!-- follower badge -->
-<a href="https://github.com/FiroRooM?tab=followers"><img src="https://img.shields.io/github/followers/FiroRooM?label=Followers&style=social" alt="GitHub Badge"></a>
   </p>
   
   <!-- Footer -->
